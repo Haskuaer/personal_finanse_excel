@@ -18,11 +18,38 @@ One of its key features is **shared expense management**, allowing multiple peop
 - **Data Validation** - Use predefined categories, subcategories, and counterparties to maintain consistent records
 - **Automated Reporting** - Generate financial summaries using formulas and pivot tables
 
+## Screenshots
+
+### Monthly Summary
+![Monthly Summary](screenshots/summary.png)
+
+### Budget Baseline
+![Budget_Baseline](screenshots/baseline.png)
+
+### Funds Overview
+![Funds Overview](screenshots/funds.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Debt Management
+![Debt Management](screenshots/debts.png)
+
 ## Workbook Structure
 
 The workbook consists of nine interconnected worksheets.
 
-*table*
+| Worksheet | Description |
+|---|---|
+| Summary | Monthly financial overview with detailed expense statistics. |
+| Baseline | Recurring expenses, budget allocation, and spending distribution. |
+| Funds | Available balances, emergency savings, financial goals, and free funds. |
+| Transactions | Central database for income, expenses, and shared transactions. |
+| Debts | Tracking of shared expenses and other outstanding debts. |
+| Noticable | Overview of transactions marked as significant. |
+| Subjects & Persons | Reference list of people, stores, and other counterparties. |
+| Category | Categories and subcategories used for transaction classification. |
+| Item % | Default cost-sharing percentages for frequently purchased items. |
 
 ## Summary
 
